@@ -18,6 +18,9 @@ Causal discovery algorithms infer the causal structure employing only observatio
 - SAM
 - CGNN
 
+# Code
+Code implementation is in the code folder for all the algorithms.
+
 # Libraries and Tools
 - Causal discovery Toolbox 
 - Causalnex 
